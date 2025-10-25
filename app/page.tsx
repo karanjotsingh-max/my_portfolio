@@ -355,9 +355,9 @@ export default function Home() {
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 {[
-                  { name: "GitHub", handle: "@karanjot", url: "https://github.com/karanjot" },
-                  { name: "LinkedIn", handle: "karanjot", url: "https://linkedin.com/in/karanjot" },
-                  { name: "LeetCode", handle: "@karanjot", url: "https://leetcode.com/karanjot" },
+                  { name: "GitHub", handle: "@karanjot", url: "https://github.com/karanjotsingh-max" },
+                  { name: "LinkedIn", handle: "karanjot", url: "https://www.linkedin.com/in/karanjots1/" },
+                  { name: "LeetCode", handle: "@karanjot", url: "https://leetcode.com/u/lelouch_01/" },
                 ].map((social) => (
                   <Link
                     key={social.name}
